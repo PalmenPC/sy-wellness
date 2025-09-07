@@ -3,3 +3,24 @@
   --color-primary: #3e563e;
   --color-primary-hover: #314431;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header-logo {
+  width: 4rem;
+}
+
+#header-nav {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+  list-style: none;
+}
+
+#header-nav li {
+  margin: 0 0.5rem;
+}
