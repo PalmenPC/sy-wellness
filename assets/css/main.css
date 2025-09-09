@@ -8,6 +8,10 @@
   --font-secondary: "Cinzel", serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -23,6 +27,7 @@ header {
   flex-direction: row;
   padding-left: 0;
   list-style: none;
+  font-family: var(--font-secondary);
 }
 
 #header-nav li {
