@@ -2,6 +2,10 @@
   /* Colors */
   --color-primary: #3e563e;
   --color-primary-hover: #314431;
+
+  /* Typography */
+  --font-primary: "Merriweather", serif;
+  --font-secondary: "Cinzel", serif;
 }
 
 header {
