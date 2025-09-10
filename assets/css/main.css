@@ -16,10 +16,12 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 1rem 0;
 }
 
 #header-logo {
-  width: 4rem;
+  width: 3.5rem;
+  margin-left: 2rem;
 }
 
 #header-nav {
@@ -32,4 +34,8 @@ header {
 
 #header-nav li {
   margin: 0 0.5rem;
+}
+
+#hamburger-icon {
+  margin-right: 2rem;
 }
