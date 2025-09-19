@@ -1,6 +1,8 @@
 /* Hamburger menu */
-const hamburgerIcon = document.getElementById("hamburger-icon");
+const hamburgerButton = document.getElementById("hamburger-button");
+const hamburgerMenu = document.getElementById("hamburger-nav");
 
-hamburgerIcon.addEventListener("click", () => {
-  hamburgerIcon.classList.toggle("active");
+hamburgerButton.addEventListener("click", () => {
+  hamburgerButton.classList.toggle("active");
+  hamburgerMenu.classList.toggle("active");
 });
