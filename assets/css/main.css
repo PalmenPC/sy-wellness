@@ -71,14 +71,16 @@ header {
 }
 
 #hamburger-nav {
-  display: none;
+  position: absolute;
+  top: 3.1rem;
+  right: -20rem;
+  transition: 0.3s ease;
 }
 
 #hamburger-nav.active {
-  display: block;
   position: absolute;
-  top: 2rem;
-  right: 3rem;
+  top: 3.1rem;
+  right: 0;
 }
 
 /* Media Queries */
