@@ -8,6 +8,11 @@
   --font-secondary: "Cinzel", serif;
 }
 
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
 a {
   text-decoration: none;
 }
@@ -16,13 +21,14 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 1rem 0;
+  padding: 1rem 0;
+  margin: 0;
   height: 2rem;
 }
 
 #header-logo {
   width: 3.5rem;
-  margin-left: 2.5rem;
+  margin-left: 1rem;
 }
 
 #header-nav {
@@ -31,7 +37,7 @@ header {
   padding-left: 0;
   list-style: none;
   font-family: var(--font-secondary);
-  margin-right: 2.5rem;
+  margin-right: 1rem;
 }
 
 #header-nav li {
@@ -39,7 +45,7 @@ header {
 }
 
 #hamburger-button {
-  margin-right: 2.5rem;
+  margin-right: 1rem;
   background-color: transparent;
   display: flex;
   flex-direction: column;
@@ -72,8 +78,8 @@ header {
 
 #hamburger-nav {
   position: absolute;
-  top: 3.1rem;
-  right: -20rem;
+  top: 4rem;
+  right: -11rem;
   transition: 0.3s ease;
   padding: 0 1rem;
   background-color: var(--color-primary);
@@ -82,7 +88,7 @@ header {
 
 #hamburger-nav.active {
   position: absolute;
-  top: 3.1rem;
+  top: 4rem;
   right: 0;
 }
 
@@ -100,13 +106,13 @@ header {
 }
 
 /* Media Queries */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   #header-nav {
     display: none;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 601px) {
   #hamburger-button {
     display: none;
   }
