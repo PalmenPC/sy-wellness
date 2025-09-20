@@ -75,12 +75,28 @@ header {
   top: 3.1rem;
   right: -20rem;
   transition: 0.3s ease;
+  padding: 0 1rem;
+  background-color: var(--color-primary);
+  font-family: var(--font-secondary);
 }
 
 #hamburger-nav.active {
   position: absolute;
   top: 3.1rem;
   right: 0;
+}
+
+#hamburger-nav-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+#hamburger-nav-list li {
+  margin: 0.5rem 0;
+}
+
+#hamburger-nav-list li a {
+  color: white;
 }
 
 /* Media Queries */
