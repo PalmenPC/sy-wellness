@@ -17,6 +17,7 @@ a {
   text-decoration: none;
 }
 
+/* Header */
 header {
   display: flex;
   justify-content: space-between;
@@ -31,7 +32,7 @@ header {
   margin-left: 1rem;
 }
 
-#header-nav {
+#header-nav-list {
   display: flex;
   flex-direction: row;
   padding-left: 0;
@@ -40,10 +41,11 @@ header {
   margin-right: 1rem;
 }
 
-#header-nav li {
+#header-nav-list li {
   margin: 0 0.8rem;
 }
 
+/* Hamburger menu */
 #hamburger-button {
   margin-right: 1rem;
   background-color: transparent;
@@ -107,7 +109,7 @@ header {
 
 /* Media Queries */
 @media screen and (max-width: 600px) {
-  #header-nav {
+  #header-nav-list {
     display: none;
   }
 }
