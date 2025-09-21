@@ -45,6 +45,10 @@ header {
   margin: 0 0.8rem;
 }
 
+#header-nav-list li a {
+  color: black;
+}
+
 /* Hamburger menu */
 #hamburger-button {
   margin-right: 1rem;
