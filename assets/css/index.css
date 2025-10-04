@@ -9,3 +9,15 @@
   height: 95vh;
   object-fit: cover;
 }
+
+h1 {
+  position: absolute;
+}
+
+#index-cta {
+  position: absolute;
+}
+
+.book-button {
+  background-color: var(--color-primary);
+}
