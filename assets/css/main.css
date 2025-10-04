@@ -11,6 +11,11 @@
 body {
   margin: 0;
   overflow-x: hidden;
+  font-family: var(--font-primary);
+}
+
+h1 {
+  font-family: var(--font-secondary);
 }
 
 a {
@@ -109,6 +114,19 @@ header {
 
 #hamburger-nav-list li a {
   color: white;
+}
+
+/* Book buttons */
+.book-button {
+  background-color: var(--color-primary);
+  font-family: var(--font-secondary);
+  color: white;
+  padding: 0.5rem 1rem;
+  transition: 0.3s ease-in-out;
+}
+
+.book-button:hover {
+  background-color: var(--color-primary-hover);
 }
 
 /* Media Queries */

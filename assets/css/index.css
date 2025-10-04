@@ -12,12 +12,12 @@
 
 h1 {
   position: absolute;
+  top: 18rem;
+  font-size: 3.5rem;
+  color: white;
 }
 
 #index-cta {
   position: absolute;
-}
-
-.book-button {
-  background-color: var(--color-primary);
+  top: 26rem;
 }
