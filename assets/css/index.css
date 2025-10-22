@@ -1,3 +1,4 @@
+/* Hero section */
 #hero-section {
   display: flex;
   justify-content: center;
@@ -20,4 +21,9 @@ h1 {
 #index-cta {
   position: absolute;
   top: 26rem;
+}
+
+/* Testimonial section */
+#testimonial-section-index {
+  text-align: center;
 }
