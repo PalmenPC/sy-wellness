@@ -27,3 +27,33 @@ h1 {
 #testimonial-section-index {
   text-align: center;
 }
+
+#testimonial-gallery-index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.testimonial-container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  height: fit-content;
+  width: 20rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: white;
+  background-color: var(--color-primary);
+}
+
+.testimonial-text {
+  width: 100%;
+  margin-top: 0;
+}
+
+.testimonial-author {
+  margin: 0;
+  margin-bottom: 0;
+}
