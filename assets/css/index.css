@@ -26,6 +26,11 @@ h1 {
 /* Testimonial section */
 #testimonial-section-index {
   text-align: center;
+  margin-bottom: 4rem;
+}
+
+#heading-testimonials-index {
+  margin: 3rem 0;
 }
 
 #testimonial-gallery-index {
