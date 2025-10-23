@@ -12,15 +12,17 @@
 }
 
 h1 {
-  position: absolute;
-  top: 18rem;
   font-size: 3.5rem;
   color: white;
 }
 
-#index-cta {
+#cta-hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
   position: absolute;
-  top: 26rem;
+  top: 18rem;
 }
 
 /* Testimonial section */
