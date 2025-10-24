@@ -64,3 +64,27 @@ h1 {
   margin: 0;
   margin-bottom: 0;
 }
+
+/* Media queries */
+@media screen and (max-width: 340px) {
+  #heading-testimonials-index {
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  #testimonial-gallery-index {
+    margin: 0 2.5rem 2rem 2.5rem;
+  }
+  .testimonial-container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 810px) {
+  #testimonial-gallery-index {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
