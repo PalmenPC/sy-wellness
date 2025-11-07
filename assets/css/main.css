@@ -123,6 +123,15 @@ header {
   color: var(--font-color-primary);
 }
 
+/* Banners */
+.heading-banner {
+  text-align: center;
+}
+
+.page-banner {
+  background-color: var(--color-primary);
+}
+
 /* Call-to-action buttons */
 .cta-btn {
   background-color: var(--color-primary);
