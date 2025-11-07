@@ -8,9 +8,19 @@
   --font-secondary: "Cinzel", serif;
 }
 
+html,
 body {
-  margin: 0;
   overflow-x: hidden;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  font-family: var(--font-primary);
+}
+
+h1 {
+  font-family: var(--font-secondary);
 }
 
 a {
@@ -109,6 +119,19 @@ header {
 
 #hamburger-nav-list li a {
   color: white;
+}
+
+/* Book buttons */
+.btn-cta {
+  background-color: var(--color-primary);
+  font-family: var(--font-secondary);
+  color: white;
+  padding: 0.7rem 1.4rem;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-cta:hover {
+  background-color: var(--color-primary-hover);
 }
 
 /* Media Queries */
