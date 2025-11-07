@@ -62,7 +62,7 @@ header {
 }
 
 /* Hamburger menu */
-#hamburger-button {
+#hamburger-btn {
   margin-right: 1rem;
   background-color: transparent;
   display: flex;
@@ -75,22 +75,22 @@ header {
   cursor: pointer;
 }
 
-#hamburger-button span {
+#hamburger-btn span {
   background-color: var(--color-primary);
   height: 0.25rem;
   margin: 0.15rem 0;
   transition: 0.2s ease;
 }
 
-#hamburger-button.active span:nth-child(1) {
+#hamburger-btn.active span:nth-child(1) {
   transform: translate(0, 0.5rem) rotate(45deg);
 }
 
-#hamburger-button.active span:nth-child(2) {
+#hamburger-btn.active span:nth-child(2) {
   opacity: 0;
 }
 
-#hamburger-button.active span:nth-child(3) {
+#hamburger-btn.active span:nth-child(3) {
   transform: translate(0, -0.6rem) rotate(-45deg);
 }
 
@@ -120,11 +120,11 @@ header {
 }
 
 #hamburger-nav-list li a {
-  color: white;
+  color: var(--font-color-primary);
 }
 
-/* Book buttons */
-.btn-cta {
+/* Call-to-action buttons */
+.cta-btn {
   background-color: var(--color-primary);
   font-family: var(--font-secondary);
   color: var(--font-color-primary);
@@ -132,7 +132,7 @@ header {
   transition: 0.3s ease-in-out;
 }
 
-.btn-cta:hover {
+.cta-btn:hover {
   background-color: var(--color-primary-hover);
 }
 
@@ -144,7 +144,7 @@ header {
 }
 
 @media screen and (min-width: 601px) {
-  #hamburger-button {
+  #hamburger-btn {
     display: none;
   }
 }
