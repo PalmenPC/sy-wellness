@@ -6,6 +6,8 @@
   /* Typography */
   --font-primary: "Merriweather", serif;
   --font-secondary: "Cinzel", serif;
+  --font-color-primary: #ffffff;
+  --font-color-secondary: #000000;
 }
 
 html,
@@ -56,7 +58,7 @@ header {
 }
 
 #header-nav-list li a {
-  color: black;
+  color: var(--font-color-secondary);
 }
 
 /* Hamburger menu */
@@ -125,7 +127,7 @@ header {
 .btn-cta {
   background-color: var(--color-primary);
   font-family: var(--font-secondary);
-  color: white;
+  color: var(--font-color-primary);
   padding: 0.7rem 1.4rem;
   transition: 0.3s ease-in-out;
 }

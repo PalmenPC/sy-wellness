@@ -13,7 +13,7 @@
 
 h1 {
   font-size: 3.5rem;
-  color: white;
+  color: var(--font-color-primary);
 }
 
 #cta-hero-container {
@@ -51,7 +51,7 @@ h1 {
   width: 20rem;
   padding: 1.5rem;
   text-align: left;
-  color: white;
+  color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
 
