@@ -136,6 +136,14 @@ header {
   background-color: var(--color-primary);
 }
 
+/* Categories */
+.category-tag {
+  background-color: var(--color-primary);
+  color: var(--font-color-primary);
+  margin: 0.2rem 1rem;
+  padding: 1.2rem;
+}
+
 /* Call-to-action buttons */
 .cta-btn {
   background-color: var(--color-primary);
