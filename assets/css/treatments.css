@@ -5,3 +5,23 @@
   text-align: center;
   margin-top: 1rem;
 }
+
+.category-tag {
+  background-color: var(--color-primary);
+  color: var(--font-color-primary);
+  margin: 0.2rem 1rem;
+  padding: 1.2rem;
+}
+
+/* Media queries */
+@media screen and (min-width: 400px) {
+  #category-selection {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  #category-selection {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
