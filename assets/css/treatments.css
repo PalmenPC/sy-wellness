@@ -3,11 +3,14 @@
   justify-content: center;
   grid-template-columns: 1fr;
   text-align: center;
-  margin-top: 1rem;
+  gap: 1rem;
+  margin: 2rem 2rem 0 2rem;
 }
 
 .category-tag {
-  margin: 0.2rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 1.2rem;
   font-family: var(--font-secondary);
   color: var(--font-color-primary);
