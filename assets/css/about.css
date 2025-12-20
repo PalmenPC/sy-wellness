@@ -1,0 +1,9 @@
+#our-team-section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.team-avatar {
+  height: 20rem;
+}
