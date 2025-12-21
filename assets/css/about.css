@@ -1,11 +1,20 @@
 #our-story-section,
-#our-vision-section,
-#our-team-section {
+#our-vision-section {
+  display: flex;
+  place-items: center;
+  flex-direction: column;
   margin: 0 2rem;
 }
 
 .section-heading {
   text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.section-content {
+  max-width: 40rem;
+  margin: 0;
 }
 
 #team-gallery {
