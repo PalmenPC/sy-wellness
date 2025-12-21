@@ -8,12 +8,20 @@
   text-align: center;
 }
 
-#our-team-section {
+#team-gallery {
   display: flex;
   flex-direction: column;
-  text-align: center;
+  align-items: center;
+  gap: 2rem;
 }
 
 .team-avatar {
   height: 20rem;
+}
+
+@media screen and (min-width: 900px) {
+  #team-gallery {
+    flex-direction: row;
+    justify-content: center;
+  }
 }
