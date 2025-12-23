@@ -17,6 +17,10 @@
   margin: 0;
 }
 
+#our-team-section {
+  margin-bottom: 2rem;
+}
+
 #team-gallery {
   display: flex;
   flex-direction: column;
