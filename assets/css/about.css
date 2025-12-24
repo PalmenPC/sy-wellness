@@ -1,0 +1,55 @@
+#our-story-section,
+#our-vision-section {
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+  margin: 0 2rem;
+}
+
+.section-heading {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.section-content {
+  max-width: 40rem;
+  margin: 0;
+}
+
+#our-team-section {
+  margin-bottom: 2rem;
+}
+
+#team-gallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 2rem;
+}
+
+.team-avatar {
+  width: 16rem;
+  height: 22rem;
+  object-fit: cover;
+}
+
+.team-member-name {
+  margin: 0.2rem 0 0 0;
+}
+
+.team-member-bio {
+  margin: 0.6rem 0 1rem 0;
+  max-width: 16rem;
+}
+
+/* Media queries */
+@media screen and (min-width: 850px) {
+  #team-gallery {
+    flex-direction: row;
+    align-items: start;
+    gap: 2.4rem;
+  }
+}
