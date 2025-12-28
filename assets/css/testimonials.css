@@ -22,3 +22,10 @@
 .testimonial-author {
   margin: 0;
 }
+
+/* Media queries */
+@media screen and (min-width: 690px) {
+  #testimonial-gallery {
+    grid-template-columns: repeat(2, minmax(20rem, 25rem));
+  }
+}
