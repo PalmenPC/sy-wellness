@@ -11,4 +11,14 @@
   flex-direction: column;
   align-items: start;
   padding: 1rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+}
+
+.testimonial-text {
+  margin-top: 0;
+}
+
+.testimonial-author {
+  margin: 0;
 }
