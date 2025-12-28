@@ -3,5 +3,10 @@
     "id": 1,
     "message": "This is where the message goes",
     "author": "Authors name"
+  },
+  {
+    "id": 2,
+    "message": "This is where the message goes",
+    "author": "Authors name"
   }
 ]

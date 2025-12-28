@@ -4,6 +4,7 @@ function loadHandler() {
     .then((data) => {
       data.forEach((item) => {
         const testimonial = document.createElement("div");
+        testimonial.classList.add("testimonial-container");
         testimonial.innerText = JSON.stringify(item);
         testimonial.innerHTML = `
         <p class="testimonial-text">${item.message}</p>
