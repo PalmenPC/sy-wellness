@@ -1,22 +1,42 @@
 [
   {
     "id": 1,
-    "message": "I am extremely satisfied with my treatment with Ravi. I immediately felt safe and grateful to have found him. He is incredibly knowledgeable, professional, and attentive. I received amazing help with pain and tension in both my back and shoulders - and much more. The treatment has made a big difference for me, and I can warmly recommend Ravi both as an osteopath and as a yoga teacher.",
+    "message": "Jag är oerhört nöjd med min behandling hos Ravi. Jag kände mig direkt trygg och tacksam över att ha kommit till honom. Han är otroligt kunnig, professionell och lyhörd. Jag fick fantastisk hjälp med smärtor och spänningar i både rygg och axlar – och mycket mer. Behandlingen har gjort stor skillnad för mig och jag kan varmt rekommendera Ravi, både som osteopat och yogalärare",
     "author": "Recension från Bokadirekt.se"
   },
   {
     "id": 2,
-    "message": "I really appreciate Ravi as a yoga teacher! I attend his yoga classes in English, and as a complete beginner he made me feel very welcome and always takes the time to answer my questions. I had been struggling with a tense body due to stress for months, but both the yoga classes and his guidance during massage and cupping have helped me a lot. He truly listens to what your body needs - both in yoga and massage - and adapts his support accordingly.",
+    "message": "Jag uppskattar verkligen Ravi som yogalärare! Jag går på hans yogaklasser på engelska, och han välkomnar super nybörjare som mig och tar sig tid att svara på frågor. Jag har haft problem med en spänd kropp på grund av stress i flera månader, och både yogaklasserna och hans råd under massage och koppning har hjälpt mig mycket. Han lyssnar verkligen på vad din kropp behöver -- både i yoga och massage -- och anpassar sitt stöd därefter.",
     "author": "Recension från Bokadirekt.se"
   },
   {
-    "id": 2,
-    "message": "I really appreciate Ravi as a yoga teacher! I attend his yoga classes in English, and as a complete beginner he made me feel very welcome and always takes the time to answer my questions. I had been struggling with a tense body due to stress for months, but both the yoga classes and his guidance during massage and cupping have helped me a lot. He truly listens to what your body needs - both in yoga and massage - and adapts his support accordingly.",
+    "id": 3,
+    "message": "Efter bara några få sessioner minskade min kroniska ryggsmärta avsevärt. Ravis holistiska synsätt och tydliga förklaringar fick mig att känna mig trygg och förstådd. Jag kan äntligen röra mig mer fritt igen.",
+    "author": "Kundomdöme"
+  },
+  {
+    "id": 4,
+    "message": "Ravi är mycket duktig jag har varit på flera olika ställen i Jönköping innan jag fann Ravi. Ravi är mycket professionell och Universitets utbildad.",
     "author": "Recension från Bokadirekt.se"
   },
   {
-    "id": 1,
-    "message": "He is incredibly knowledgeable, professional, and attentive. I received amazing help with pain and tension in both my back and shoulders - and much more. The treatment has made a big difference for me, and I can warmly recommend Ravi both as an osteopath and as a yoga teacher.",
+    "id": 5,
+    "message": "Helt klart det bästa stället i Jönköping! Mycket professionell och anpassar massagen efter ens behov och smärtproblematik. Rekommenderas alla dagar i veckan!",
     "author": "Recension från Bokadirekt.se"
+  },
+  {
+    "id": 6,
+    "message": "Jag hade kämpat med nack- och axelstelhet i flera år. Ravi kombinerade milda osteopatiska tekniker med hållningskorrigering, och skillnaden var anmärkningsvärd. Jag känner mig lättare och mer rörlig i mitt dagliga liv.",
+    "author": "Kundomdöme"
+  },
+  {
+    "id": 7,
+    "message": "Som någon som jobbar långa timmar vid skrivbordet utvecklade jag återkommande huvudvärk och spänningar. Osteopatibehandlingar med Ravi hjälpte till att frigöra dessa blockeringar, förbättrade min hållning och gav mig långvarig lindring.",
+    "author": "Kundomdöme"
+  },
+  {
+    "id": 8,
+    "message": "Efter min hydrafacialbehandling kändes min hud fräsch, slät och glödande. Terapeuten tog verkligen tid på sig att anpassa vården, och jag kände mig både avslappnad och omhändertagen.",
+    "author": "Kundomdöme"
   }
 ]
