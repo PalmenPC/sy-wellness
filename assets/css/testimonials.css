@@ -1,0 +1,31 @@
+#testimonial-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.testimonial-container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 1rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+}
+
+.testimonial-text {
+  margin-top: 0;
+}
+
+.testimonial-author {
+  margin: 0;
+}
+
+/* Media queries */
+@media screen and (min-width: 690px) {
+  #testimonial-gallery {
+    grid-template-columns: repeat(2, minmax(20rem, 25rem));
+  }
+}
