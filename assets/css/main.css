@@ -16,6 +16,7 @@ body {
 }
 
 body {
+  box-sizing: border-box;
   position: relative;
   margin: 0;
   font-family: var(--font-primary);
