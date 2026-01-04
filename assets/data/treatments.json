@@ -1,0 +1,33 @@
+{
+  "treatments": {
+    "yoga-with-retreat": [
+      {
+        "name": "Hathayoga med meditation",
+        "description": "A gentle yoga class combining Hatha postures, breathing techniques, and guided meditation. Strengthen your body, calm your mind, and leave feeling relaxed, balanced, and energized. Suitable for all levels."
+      },
+      {
+        "name": "Yinyoga med meditation",
+        "description": "A calming and restorative class that combines gentle yin yoga poses with guided meditation. The long, deep stretches in yin yoga release tension, improve flexibility, and stimulate energy flow, while the meditation helps quiet the mind, reduce stress, and create inner balance. This practice is suitable for all levels and offers deep relaxation for both body and mind."
+      }
+    ],
+
+    "massage-and-osteopathy": [
+      {
+        "name": "Ostetopathy with massage treatment",
+        "description": "Osteopathy combined with massage therapy offers a holistic approach to pain relief, improved mobility, and long-term recovery. By integrating osteopathic techniques such as joint mobilization, soft tissue therapy, and stretching with the muscle-relaxing benefits of massage, this treatment helps release tension, improve circulation, and restore balance in the body. It is especially effective for back and neck pain, sports injuries, headaches, stress-related tension, and posture issues. Comfortable workout clothing is recommended for the best experience."
+      },
+      {
+        "name": "Classic massage",
+        "description": "Classic massage is a soothing and restorative treatment that combines flowing strokes, kneading, and gentle pressure to release tension and support the body’s natural healing process. It can be applied to the entire body or focused on problem areas such as the back, shoulders, and neck. This massage helps to improve blood circulation, ease stiffness, and promote deep relaxation, making it an excellent choice for stress relief and overall well-being. The pressure can be tailored to your preference — from gentle and relaxing to more focused and deeper — ensuring a personalized experience that meets your needs."
+      },
+      {
+        "name": "Deep tissue massage",
+        "description": "A powerful massage that goes deep into muscles and connective tissue. -Uses slow, deep pressure to release muscle tension and scar tissue. -Relieves chronic pain, improves mobility and releases tension. Suitable for: People with long-term muscle problems, stiffness or injuries."
+      },
+      {
+        "name": "Sports massage",
+        "description": "Sports massage is a focused treatment designed to target specific muscle groups and problem areas, making it highly effective for both prevention and rehabilitation of injuries or overuse. By combining techniques such as deep tissue massage, trigger point therapy, stretching, myofascial release, and joint mobilization, this treatment works to release tension, improve circulation, and restore balance in the body. Sports massage not only reduces stiffness and discomfort but also speeds up recovery, enhances flexibility, and helps prevent future injuries. Whether you are an athlete, someone with a sedentary job experiencing muscle tightness, or simply looking to improve your overall performance and mobility, this massage is tailored to meet your needs. For the best experience, we recommend wearing comfortable or workout clothing to allow freedom of movement during the session."
+      }
+    ]
+  }
+}
