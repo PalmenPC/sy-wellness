@@ -1,6 +1,6 @@
 {
   "treatments": {
-    "yoga-with-retreat": [
+    "yoga": [
       {
         "name": "Hathayoga med meditation",
         "description": "A gentle yoga class combining Hatha postures, breathing techniques, and guided meditation. Strengthen your body, calm your mind, and leave feeling relaxed, balanced, and energized. Suitable for all levels."
@@ -11,7 +11,7 @@
       }
     ],
 
-    "massage-and-osteopathy": [
+    "massage": [
       {
         "name": "Ostetopathy with massage treatment",
         "description": "Osteopathy combined with massage therapy offers a holistic approach to pain relief, improved mobility, and long-term recovery. By integrating osteopathic techniques such as joint mobilization, soft tissue therapy, and stretching with the muscle-relaxing benefits of massage, this treatment helps release tension, improve circulation, and restore balance in the body. It is especially effective for back and neck pain, sports injuries, headaches, stress-related tension, and posture issues. Comfortable workout clothing is recommended for the best experience."
