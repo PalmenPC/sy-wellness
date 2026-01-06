@@ -3,106 +3,128 @@
     "yogaWithRetreat": [
       {
         "name": "Hathayoga med meditation",
-        "description": "A gentle yoga class combining Hatha postures, breathing techniques, and guided meditation. Strengthen your body, calm your mind, and leave feeling relaxed, balanced, and energized. Suitable for all levels."
+        "description": "Ett lugnt yogapass som kombinerar Hatha-positioner, andningstekniker och guidad meditation. Stärk din kropp, lugna ditt sinne och lämna passet känslomässigt avslappnad, balanserad och energifylld. Passar alla nivåer.",
+        "bookLink": "https://www.bokadirekt.se/boka-tjanst/sy-wellness-ab-131243/hatha-yoga-med-meditation-3299193"
       },
       {
         "name": "Yinyoga med meditation",
-        "description": "A calming and restorative class that combines gentle yin yoga poses with guided meditation. The long, deep stretches in yin yoga release tension, improve flexibility, and stimulate energy flow, while the meditation helps quiet the mind, reduce stress, and create inner balance. This practice is suitable for all levels and offers deep relaxation for both body and mind."
+        "description": "Ett lugnande och återställande pass som kombinerar mjuka yinyoga-positioner med guidad meditation. De långa, djupa sträckningarna i yinyoga släpper spänningar, förbättrar flexibilitet och stimulerar energiflödet, medan meditationen hjälper till att stilla sinnet, minska stress och skapa inre balans. Denna övning passar alla nivåer och erbjuder djup avslappning för både kropp och sinne.",
+        "bookLink": "https://www.bokadirekt.se/boka-tjanst/sy-wellness-ab-131243/yinyoga-med-meditation-3299223"
       }
     ],
 
     "massageAndOsteopathy": [
       {
-        "name": "Ostetopathy with massage treatment",
-        "description": "Osteopathy combined with massage therapy offers a holistic approach to pain relief, improved mobility, and long-term recovery. By integrating osteopathic techniques such as joint mobilization, soft tissue therapy, and stretching with the muscle-relaxing benefits of massage, this treatment helps release tension, improve circulation, and restore balance in the body. It is especially effective for back and neck pain, sports injuries, headaches, stress-related tension, and posture issues. Comfortable workout clothing is recommended for the best experience."
+        "name": "Osteopati med massage",
+        "description": "Osteopathy combined with massage therapy offers a holistic approach to pain relief, improved mobility, and long-term recovery. By integrating osteopathic techniques such as joint mobilization, soft tissue therapy, and stretching with the muscle-relaxing benefits of massage, this treatment helps release tension, improve circulation, and restore balance in the body. It is especially effective for back and neck pain, sports injuries, headaches, stress-related tension, and posture issues. Comfortable workout clothing is recommended for the best experience.",
+        "bookLink": ""
       },
       {
         "name": "Classic massage",
-        "description": "Classic massage is a soothing and restorative treatment that combines flowing strokes, kneading, and gentle pressure to release tension and support the body’s natural healing process. It can be applied to the entire body or focused on problem areas such as the back, shoulders, and neck. This massage helps to improve blood circulation, ease stiffness, and promote deep relaxation, making it an excellent choice for stress relief and overall well-being. The pressure can be tailored to your preference — from gentle and relaxing to more focused and deeper — ensuring a personalized experience that meets your needs."
+        "description": "Classic massage is a soothing and restorative treatment that combines flowing strokes, kneading, and gentle pressure to release tension and support the body’s natural healing process. It can be applied to the entire body or focused on problem areas such as the back, shoulders, and neck. This massage helps to improve blood circulation, ease stiffness, and promote deep relaxation, making it an excellent choice for stress relief and overall well-being. The pressure can be tailored to your preference — from gentle and relaxing to more focused and deeper — ensuring a personalized experience that meets your needs.",
+        "bookLink": ""
       },
       {
         "name": "Deep tissue massage",
-        "description": "A powerful massage that goes deep into muscles and connective tissue. -Uses slow, deep pressure to release muscle tension and scar tissue. -Relieves chronic pain, improves mobility and releases tension. Suitable for: People with long-term muscle problems, stiffness or injuries."
+        "description": "A powerful massage that goes deep into muscles and connective tissue. -Uses slow, deep pressure to release muscle tension and scar tissue. -Relieves chronic pain, improves mobility and releases tension. Suitable for: People with long-term muscle problems, stiffness or injuries.",
+        "bookLink": ""
       },
       {
         "name": "Sports massage",
-        "description": "Sports massage is a focused treatment designed to target specific muscle groups and problem areas, making it highly effective for both prevention and rehabilitation of injuries or overuse. By combining techniques such as deep tissue massage, trigger point therapy, stretching, myofascial release, and joint mobilization, this treatment works to release tension, improve circulation, and restore balance in the body. Sports massage not only reduces stiffness and discomfort but also speeds up recovery, enhances flexibility, and helps prevent future injuries. Whether you are an athlete, someone with a sedentary job experiencing muscle tightness, or simply looking to improve your overall performance and mobility, this massage is tailored to meet your needs. For the best experience, we recommend wearing comfortable or workout clothing to allow freedom of movement during the session."
+        "description": "Sports massage is a focused treatment designed to target specific muscle groups and problem areas, making it highly effective for both prevention and rehabilitation of injuries or overuse. By combining techniques such as deep tissue massage, trigger point therapy, stretching, myofascial release, and joint mobilization, this treatment works to release tension, improve circulation, and restore balance in the body. Sports massage not only reduces stiffness and discomfort but also speeds up recovery, enhances flexibility, and helps prevent future injuries. Whether you are an athlete, someone with a sedentary job experiencing muscle tightness, or simply looking to improve your overall performance and mobility, this massage is tailored to meet your needs. For the best experience, we recommend wearing comfortable or workout clothing to allow freedom of movement during the session.",
+        "bookLink": ""
       }
     ],
 
     "cupping": [
       {
         "name": "Cupping therapy with massage",
-        "description": "This technique can be beneficial for pain such as sore backs and shoulders or simply for relaxation. Glass cups are placed on the body through a vacuum created with fire and are either left on fixed points or gently moved over the skin. Cupping increases circulation and can therefore help relieve pain. The treatment works by relieving muscle tension and stiffness, improving blood circulation, supporting the body’s natural detox process through stimulation of the lymphatic system, strengthening the immune system, and reducing inflammation. It also promotes relaxation and helps reduce stress by positively affecting the nervous system. Suitable for: People with chronic pain, circulation problems, or those who want to improve their recovery and relaxation."
+        "description": "This technique can be beneficial for pain such as sore backs and shoulders or simply for relaxation. Glass cups are placed on the body through a vacuum created with fire and are either left on fixed points or gently moved over the skin. Cupping increases circulation and can therefore help relieve pain. The treatment works by relieving muscle tension and stiffness, improving blood circulation, supporting the body’s natural detox process through stimulation of the lymphatic system, strengthening the immune system, and reducing inflammation. It also promotes relaxation and helps reduce stress by positively affecting the nervous system. Suitable for: People with chronic pain, circulation problems, or those who want to improve their recovery and relaxation.",
+        "bookLink": ""
       },
       {
         "name": "Cupping with massage of back and shoulder",
-        "description": "This technique can be beneficial for pain such as sore backs and shoulders or just relaxation. The glass cups are placed on the body through a vacuum created with fire. These rest on fixed points on the body or are moved over the skin. Cupping increases circulation, among other things, and can thus relieve pain. Technique: The cups are placed on the skin and either left in place or moved gently over the body. Effects: Relieves muscle tension and stiffness. Increases blood circulation and helps with recovery. Supports the body's natural detox process by stimulating the lymphatic system. Can strengthen the immune system and reduce inflammation. Promotes relaxation and reduces stress by affecting the nervous system. Suitable for: People with chronic pain, circulation problems or those who want to improve their recovery and relaxation. NOTE! This treatment is not suitable for those who are pregnant or have a fever."
+        "description": "This technique can be beneficial for pain such as sore backs and shoulders or just relaxation. The glass cups are placed on the body through a vacuum created with fire. These rest on fixed points on the body or are moved over the skin. Cupping increases circulation, among other things, and can thus relieve pain. Technique: The cups are placed on the skin and either left in place or moved gently over the body. Effects: Relieves muscle tension and stiffness. Increases blood circulation and helps with recovery. Supports the body's natural detox process by stimulating the lymphatic system. Can strengthen the immune system and reduce inflammation. Promotes relaxation and reduces stress by affecting the nervous system. Suitable for: People with chronic pain, circulation problems or those who want to improve their recovery and relaxation. NOTE! This treatment is not suitable for those who are pregnant or have a fever.",
+        "bookLink": ""
       }
     ],
 
     "facialAndSkincare": [
       {
         "name": "Active acne treatment",
-        "description": "A specialized treatment designed for skin with active acne. The focus is on deep cleansing, exfoliation, and reducing inflammation while being gentle on sensitive skin. The treatment helps to clear clogged pores, calm redness, and prevent future breakouts. Tailored products are used to balance the skin and support healing, leaving it refreshed and healthier looking."
+        "description": "A specialized treatment designed for skin with active acne. The focus is on deep cleansing, exfoliation, and reducing inflammation while being gentle on sensitive skin. The treatment helps to clear clogged pores, calm redness, and prevent future breakouts. Tailored products are used to balance the skin and support healing, leaving it refreshed and healthier looking.",
+        "bookLink": ""
       },
       {
         "name": "Hydra facial (Face)",
-        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous."
+        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous.",
+        "bookLink": ""
       },
       {
         "name": "Hydra facial (Face & Neck)",
-        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous."
+        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous.",
+        "bookLink": ""
       },
       {
         "name": "Hydra facial (Anti-aging)",
-        "description": "A revitalizing treatment designed to target fine lines, wrinkles, and loss of firmness. This HydraFacial combines deep cleansing and exfoliation with hydrating serums rich in antioxidants, peptides, and hyaluronic acid. It stimulates cell renewal, boosts collagen production, and restores elasticity, leaving the skin smoother, plumper, and radiant. Perfect for anyone who wants a youthful, refreshed glow without invasive procedures."
+        "description": "A revitalizing treatment designed to target fine lines, wrinkles, and loss of firmness. This HydraFacial combines deep cleansing and exfoliation with hydrating serums rich in antioxidants, peptides, and hyaluronic acid. It stimulates cell renewal, boosts collagen production, and restores elasticity, leaving the skin smoother, plumper, and radiant. Perfect for anyone who wants a youthful, refreshed glow without invasive procedures.",
+        "bookLink": ""
       },
       {
         "name": "Deep cleaning",
-        "description": "A classic treatment designed to deeply cleanse and refresh the skin. The treatment includes cleansing, exfoliation, steaming, pore extraction, a soothing mask, and nourishing products tailored to your skin type. It helps remove impurities, balance the skin, and leave it feeling clean, fresh, and revitalized. Ideal for those struggling with clogged pores, uneven texture, or dull skin."
+        "description": "A classic treatment designed to deeply cleanse and refresh the skin. The treatment includes cleansing, exfoliation, steaming, pore extraction, a soothing mask, and nourishing products tailored to your skin type. It helps remove impurities, balance the skin, and leave it feeling clean, fresh, and revitalized. Ideal for those struggling with clogged pores, uneven texture, or dull skin.",
+        "bookLink": ""
       },
       {
         "name": "Diamond dermabrasion",
-        "description": "Diamond dermabrasion is a non-invasive exfoliation treatment that uses a diamond-tipped tool to gently remove dead skin cells, dirt, and impurities from the surface. This stimulates blood circulation, encourages collagen production, and improves skin texture. The result is smoother, brighter, and more radiant skin. It’s ideal for reducing fine lines, uneven texture, acne scars, and dullness."
+        "description": "Diamond dermabrasion is a non-invasive exfoliation treatment that uses a diamond-tipped tool to gently remove dead skin cells, dirt, and impurities from the surface. This stimulates blood circulation, encourages collagen production, and improves skin texture. The result is smoother, brighter, and more radiant skin. It’s ideal for reducing fine lines, uneven texture, acne scars, and dullness.",
+        "bookLink": ""
       },
       {
         "name": "Korean facial",
-        "description": "The Korean facial is a multi-step skincare treatment inspired by traditional Korean beauty routines. It includes deep cleansing, exfoliation, hydration, and targeted nourishment to revitalize the skin. This treatment enhances skin elasticity, improves tone, reduces dryness and dullness, and promotes a natural, radiant glow. It’s perfect for maintaining youthful, healthy-looking skin."
+        "description": "The Korean facial is a multi-step skincare treatment inspired by traditional Korean beauty routines. It includes deep cleansing, exfoliation, hydration, and targeted nourishment to revitalize the skin. This treatment enhances skin elasticity, improves tone, reduces dryness and dullness, and promotes a natural, radiant glow. It’s perfect for maintaining youthful, healthy-looking skin.",
+        "bookLink": ""
       },
       {
         "name": "Skin tightening with RF",
-        "description": "Skin tightening with RF uses radiofrequency energy to gently heat the deeper layers of the skin, stimulating collagen and elastin production. This non-surgical treatment firms and lifts sagging skin, smooths fine lines, and restores elasticity. It’s a safe and effective way to achieve a more youthful and rejuvenated appearance without downtime."
+        "description": "Skin tightening with RF uses radiofrequency energy to gently heat the deeper layers of the skin, stimulating collagen and elastin production. This non-surgical treatment firms and lifts sagging skin, smooths fine lines, and restores elasticity. It’s a safe and effective way to achieve a more youthful and rejuvenated appearance without downtime.",
+        "bookLink": ""
       },
       {
         "name": "Pigment treatment",
-        "description": "A targeted treatment designed to reduce dark spots, sun damage, and uneven skin tone. The procedure combines deep cleansing, exfoliation, and active serums to lighten pigmentation and restore skin balance. By stimulating cell renewal and boosting radiance, this treatment helps the skin appear clearer, brighter, and more even. Suitable for all skin types concerned with hyperpigmentation."
+        "description": "A targeted treatment designed to reduce dark spots, sun damage, and uneven skin tone. The procedure combines deep cleansing, exfoliation, and active serums to lighten pigmentation and restore skin balance. By stimulating cell renewal and boosting radiance, this treatment helps the skin appear clearer, brighter, and more even. Suitable for all skin types concerned with hyperpigmentation.",
+        "bookLink": ""
       }
     ],
 
     "corporateWellnessPackage": [
       {
         "name": "Corporate Wellness Package",
-        "description": "Invest in your team’s health, productivity, and well-being with our customized corporate wellness solutions. We offer a variety of services including yoga, meditation, massage, posture correction, and holistic treatments — all tailored to your company’s needs. For the best deals and fully personalized packages, please contact us directly: Email: sywellnessab@gmail.com Phone: 0739718753, 0739718741 Our team will work with you to design a wellness program that fits your employees, schedule, and goals."
+        "description": "Invest in your team’s health, productivity, and well-being with our customized corporate wellness solutions. We offer a variety of services including yoga, meditation, massage, posture correction, and holistic treatments — all tailored to your company’s needs. For the best deals and fully personalized packages, please contact us directly: Email: sywellnessab@gmail.com Phone: 0739718753, 0739718741 Our team will work with you to design a wellness program that fits your employees, schedule, and goals.",
+        "bookLink": ""
       }
     ],
 
     "healing": [
       {
         "name": "Reiki Healing",
-        "description": "A gentle and powerful energy treatment that promotes relaxation, balance, and natural healing. Reiki works by channeling universal life energy through the therapist’s hands to release blockages, reduce stress, and restore harmony in body and mind. The treatment is deeply calming and suitable for anyone seeking more energy, inner peace, and overall well-being."
+        "description": "A gentle and powerful energy treatment that promotes relaxation, balance, and natural healing. Reiki works by channeling universal life energy through the therapist’s hands to release blockages, reduce stress, and restore harmony in body and mind. The treatment is deeply calming and suitable for anyone seeking more energy, inner peace, and overall well-being.",
+        "bookLink": ""
       },
       {
         "name": "Aura Energy scanner with 7 chakras balance",
-        "description": "This unique session begins with an aura scan that provides insight into your energy field and the state of your seven chakras. Based on the scan, balancing techniques are applied to harmonize your chakras, release blockages, and restore energy flow. The treatment promotes emotional clarity, inner peace, and a deeper connection to yourself. Perfect for anyone seeking greater balance and holistic well-being."
+        "description": "This unique session begins with an aura scan that provides insight into your energy field and the state of your seven chakras. Based on the scan, balancing techniques are applied to harmonize your chakras, release blockages, and restore energy flow. The treatment promotes emotional clarity, inner peace, and a deeper connection to yourself. Perfect for anyone seeking greater balance and holistic well-being.",
+        "bookLink": ""
       },
       {
         "name": "Sound healing",
-        "description": "A deeply relaxing treatment that uses the vibrations of sound from instruments such as singing bowls, gongs, or chimes to restore harmony in body and mind. The sound frequencies help reduce stress, release tension, and support natural healing processes. Perfect for anyone seeking inner calm, improved energy flow, and a meditative experience."
+        "description": "A deeply relaxing treatment that uses the vibrations of sound from instruments such as singing bowls, gongs, or chimes to restore harmony in body and mind. The sound frequencies help reduce stress, release tension, and support natural healing processes. Perfect for anyone seeking inner calm, improved energy flow, and a meditative experience.",
+        "bookLink": ""
       },
       {
         "name": "Access bars healing",
-        "description": "A gentle and transformative energy treatment that works by lightly touching 32 energy points on the head. These points store thoughts, beliefs, and emotions that may limit you. By activating them, Access Bars helps release blockages, reduce stress, and open up for more clarity, ease, and positive energy in life. The session creates deep relaxation and supports both mental and emotional balance."
+        "description": "A gentle and transformative energy treatment that works by lightly touching 32 energy points on the head. These points store thoughts, beliefs, and emotions that may limit you. By activating them, Access Bars helps release blockages, reduce stress, and open up for more clarity, ease, and positive energy in life. The session creates deep relaxation and supports both mental and emotional balance.",
+        "bookLink": ""
       }
     ]
   }
