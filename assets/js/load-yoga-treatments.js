@@ -9,7 +9,7 @@ function loadHandler() {
         treatment.innerHTML = `
         <h3 class="treatment-name">${item.name}</h3>
         <p class="treatment-description">${item.description}</p>
-        <a href="${item.bookLink}" target="_blank">Boka</a>`;
+        <a class="treatment-book-btn" href="${item.bookLink}" target="_blank">Boka</a>`;
 
         const treatmentGallery = document.getElementById("treatment-gallery");
 
