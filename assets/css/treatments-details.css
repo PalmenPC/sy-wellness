@@ -10,3 +10,11 @@
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
+
+.treatment-book-btn {
+  display: block;
+  padding: 0.4rem;
+  text-align: center;
+  color: var(--font-color-secondary);
+  background-color: var(--color-secondary);
+}
