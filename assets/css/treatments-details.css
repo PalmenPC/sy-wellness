@@ -8,17 +8,24 @@
 
 .treatment-container {
   height: fit-content;
-  padding: 1rem;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
+}
+
+.treatment-dropdown {
+  padding: 1rem;
 }
 
 .treatment-name {
   margin: 0;
 }
 
+.treatment-content {
+  padding: 0 1rem 1rem 1rem;
+}
+
 .treatment-description {
-  margin: 1rem 0;
+  margin: 0 0 1rem 0;
 }
 
 .treatment-book-btn {
