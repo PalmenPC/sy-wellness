@@ -11,6 +11,14 @@
   background-color: var(--color-primary);
 }
 
+.treatment-name {
+  margin: 0;
+}
+
+.treatment-description {
+  margin: 1rem 0;
+}
+
 .treatment-book-btn {
   display: block;
   padding: 0.4rem;
