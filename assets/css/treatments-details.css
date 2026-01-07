@@ -1,4 +1,12 @@
 #treatment-gallery {
   display: grid;
   grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.treatment-container {
+  padding: 1rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
 }
