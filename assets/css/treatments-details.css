@@ -1,0 +1,49 @@
+#treatment-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.treatment-container {
+  height: fit-content;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+}
+
+.treatment-dropdown {
+  padding: 1rem;
+}
+
+.treatment-name {
+  margin: 0;
+}
+
+.treatment-content {
+  display: none;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.treatment-content.open {
+  display: block;
+}
+
+.treatment-description {
+  margin: 0 0 1rem 0;
+}
+
+.treatment-book-btn {
+  display: block;
+  padding: 0.4rem;
+  text-align: center;
+  color: var(--font-color-secondary);
+  background-color: var(--color-secondary);
+}
+
+/* Media queries */
+@media screen and (min-width: 690px) {
+  #treatment-gallery {
+    grid-template-columns: repeat(2, minmax(20rem, 25rem));
+  }
+}

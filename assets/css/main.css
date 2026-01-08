@@ -2,6 +2,8 @@
   /* Colors */
   --color-primary: #3e563e;
   --color-primary-hover: #314431;
+  --color-secondary: #ffffff;
+  --color-secondary-hover: #d5d5d5;
 
   /* Typography */
   --font-primary: "Merriweather", serif;
@@ -150,7 +152,7 @@ header {
   background-color: var(--color-primary-hover);
 }
 
-/* Media Queries */
+/* Media queries */
 @media screen and (max-width: 600px) {
   #header-nav-list {
     display: none;
