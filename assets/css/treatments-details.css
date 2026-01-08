@@ -21,7 +21,12 @@
 }
 
 .treatment-content {
+  display: none;
   padding: 0 1rem 1rem 1rem;
+}
+
+.treatment-content.open {
+  display: block;
 }
 
 .treatment-description {
