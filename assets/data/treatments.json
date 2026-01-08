@@ -51,49 +51,49 @@
 
     "facialAndSkincare": [
       {
-        "name": "Active acne treatment",
-        "description": "A specialized treatment designed for skin with active acne. The focus is on deep cleansing, exfoliation, and reducing inflammation while being gentle on sensitive skin. The treatment helps to clear clogged pores, calm redness, and prevent future breakouts. Tailored products are used to balance the skin and support healing, leaving it refreshed and healthier looking.",
-        "bookLink": ""
+        "name": "Aktiv aknebehandling",
+        "description": "En specialiserad behandling utformad för hud med aktiv akne. Fokus ligger på djuprengöring, exfoliering och att minska inflammation, samtidigt som behandlingen är skonsam mot känslig hud. Behandlingen hjälper till att rensa tilltäppta porer, lugna rodnad och förebygga framtida utbrott. Anpassade produkter används för att balansera huden och stödja läkningsprocessen, vilket lämnar huden fräschare och med ett hälsosammare utseende.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
-        "name": "Hydra facial (Face)",
-        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous.",
-        "bookLink": ""
+        "name": "Hydra Facial (Ansikte)",
+        "description": "Upplev en djuprengörande, exfolierande och återfuktande ansiktsbehandling med vårt hydrodermabrasionsverktyg. Behandlingen avlägsnar orenheter, revitaliserar huden och ger omedelbar lyster. Passar alla hudtyper och lämnar huden fräsch, slät och strålande.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
-        "name": "Hydra facial (Face & Neck)",
-        "description": "Experience a deep-cleansing, exfoliating, and hydrating facial with our hydro dermabrasion tool. This treatment removes impurities, revitalizes the skin, and provides an instant radiant glow. Suitable for all skin types, it leaves your complexion refreshed, smooth, and luminous.",
-        "bookLink": ""
+        "name": "Hydra Facial (Ansikte & Hals)",
+        "description": "Upplev en djuprengörande, exfolierande och återfuktande ansikts- och halsbehandling med vårt hydrodermabrasionsverktyg. Behandlingen avlägsnar orenheter, revitaliserar huden och ger omedelbar lyster. Passar alla hudtyper och lämnar huden fräsch, slät och strålande.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
         "name": "Hydra facial (Anti-aging)",
-        "description": "A revitalizing treatment designed to target fine lines, wrinkles, and loss of firmness. This HydraFacial combines deep cleansing and exfoliation with hydrating serums rich in antioxidants, peptides, and hyaluronic acid. It stimulates cell renewal, boosts collagen production, and restores elasticity, leaving the skin smoother, plumper, and radiant. Perfect for anyone who wants a youthful, refreshed glow without invasive procedures.",
-        "bookLink": ""
+        "description": "En revitaliserande behandling utformad för att motverka fina linjer, rynkor och förlust av fasthet. Denna HydraFacial kombinerar djuprengöring och exfoliering med återfuktande serum rika på antioxidanter, peptider och hyaluronsyra. Behandlingen stimulerar cellförnyelsen, ökar kollagenproduktionen och återställer hudens elasticitet, vilket ger en slätare, fylligare och mer strålande hud. Perfekt för dig som vill ha en ungdomlig, uppfräschad lyster utan invasiva ingrepp.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
-        "name": "Deep cleaning",
-        "description": "A classic treatment designed to deeply cleanse and refresh the skin. The treatment includes cleansing, exfoliation, steaming, pore extraction, a soothing mask, and nourishing products tailored to your skin type. It helps remove impurities, balance the skin, and leave it feeling clean, fresh, and revitalized. Ideal for those struggling with clogged pores, uneven texture, or dull skin.",
-        "bookLink": ""
+        "name": "Djuprengöring",
+        "description": "En klassisk behandling som är utformad för att rengöra och fräscha upp huden på djupet. Behandlingen inkluderar rengöring, exfoliering, ånga, portömning, en lugnande mask samt närande produkter anpassade efter din hudtyp. Den hjälper till att avlägsna orenheter, balansera huden och lämnar den ren, fräsch och revitaliserad. Perfekt för dig som har problem med tilltäppta porer, ojämn hudstruktur eller glåmig hud.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
         "name": "Diamond dermabrasion",
-        "description": "Diamond dermabrasion is a non-invasive exfoliation treatment that uses a diamond-tipped tool to gently remove dead skin cells, dirt, and impurities from the surface. This stimulates blood circulation, encourages collagen production, and improves skin texture. The result is smoother, brighter, and more radiant skin. It’s ideal for reducing fine lines, uneven texture, acne scars, and dullness.",
-        "bookLink": ""
+        "description": "Diamond dermabrasion är en icke-invasiv exfolierande behandling som använder ett diamantförsett munstycke för att skonsamt avlägsna döda hudceller, smuts och orenheter från hudens yta. Behandlingen stimulerar blodcirkulationen, främjar kollagenproduktionen och förbättrar hudens struktur. Resultatet är en slätare, klarare och mer strålande hud. Behandlingen är idealisk för att reducera fina linjer, ojämn hudstruktur, akneärr och glåmighet.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
         "name": "Korean facial",
-        "description": "The Korean facial is a multi-step skincare treatment inspired by traditional Korean beauty routines. It includes deep cleansing, exfoliation, hydration, and targeted nourishment to revitalize the skin. This treatment enhances skin elasticity, improves tone, reduces dryness and dullness, and promotes a natural, radiant glow. It’s perfect for maintaining youthful, healthy-looking skin.",
-        "bookLink": ""
+        "description": "Korean facial är en flerstegsbehandling inspirerad av traditionella koreanska hudvårdsrutiner. Behandlingen inkluderar djuprengöring, exfoliering, intensiv återfuktning och riktad näring för att vitalisera huden. Den förbättrar hudens elasticitet, jämnar ut hudtonen, minskar torrhet och glåmighet samt främjar en naturlig, strålande lyster. Perfekt för att bevara en ungdomlig och hälsosam hud.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
-        "name": "Skin tightening with RF",
-        "description": "Skin tightening with RF uses radiofrequency energy to gently heat the deeper layers of the skin, stimulating collagen and elastin production. This non-surgical treatment firms and lifts sagging skin, smooths fine lines, and restores elasticity. It’s a safe and effective way to achieve a more youthful and rejuvenated appearance without downtime.",
-        "bookLink": ""
+        "name": "Skin tightening med RF",
+        "description": "Skin tightening med RF använder radiofrekvensenergi för att varsamt värma upp hudens djupare lager och stimulera produktionen av kollagen och elastin. Denna icke-kirurgiska behandling stramar upp och lyfter slapp hud, slätar ut fina linjer och återställer hudens elasticitet. Det är en säker och effektiv metod för att uppnå ett mer ungdomligt och föryngrat utseende utan återhämtningstid.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       },
       {
-        "name": "Pigment treatment",
-        "description": "A targeted treatment designed to reduce dark spots, sun damage, and uneven skin tone. The procedure combines deep cleansing, exfoliation, and active serums to lighten pigmentation and restore skin balance. By stimulating cell renewal and boosting radiance, this treatment helps the skin appear clearer, brighter, and more even. Suitable for all skin types concerned with hyperpigmentation.",
-        "bookLink": ""
+        "name": "Pigmentbehandling",
+        "description": "En riktad behandling utformad för att reducera mörka fläckar, solskador och ojämn hudton. Behandlingen kombinerar djuprengöring, exfoliering och aktiva serum för att ljusa upp pigmentering och återställa hudens balans. Genom att stimulera cellförnyelse och öka lystern hjälper behandlingen huden att se klarare, ljusare och jämnare ut. Passar alla hudtyper som vill behandla hyperpigmentering.",
+        "bookLink": "https://www.bokadirekt.se/places/sy-wellness-ab-131243"
       }
     ],
 
