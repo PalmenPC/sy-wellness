@@ -152,6 +152,11 @@ header {
   background-color: var(--color-primary-hover);
 }
 
+footer {
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+}
+
 /* Media queries */
 @media screen and (max-width: 600px) {
   #header-nav-list {
