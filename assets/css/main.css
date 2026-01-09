@@ -157,6 +157,11 @@ footer {
   background-color: var(--color-primary);
 }
 
+.social-icon {
+  width: 2rem;
+  fill: var(--color-secondary);
+}
+
 /* Media queries */
 @media screen and (max-width: 600px) {
   #header-nav-list {
