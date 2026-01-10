@@ -153,6 +153,10 @@ header {
 }
 
 footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
