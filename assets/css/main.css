@@ -161,6 +161,10 @@ footer {
   background-color: var(--color-primary);
 }
 
+footer a {
+  color: var(--font-color-primary);
+}
+
 .social-icon {
   width: 2rem;
   fill: var(--color-secondary);
