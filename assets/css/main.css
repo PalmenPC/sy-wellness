@@ -174,7 +174,7 @@ footer a {
 }
 
 #opening-hours-list {
-  margin: 0.4rem 0 1rem 0;
+  margin: 0.2rem 0;
 }
 
 .opening-hour-item {
@@ -192,9 +192,19 @@ footer a {
   margin: 0.8rem 0;
 }
 
+#social-media-icons {
+  display: flex;
+}
+
 .social-icon {
   width: 2rem;
+  margin: 0 0.4rem;
   fill: var(--color-secondary);
+}
+
+#copyright-notice {
+  text-align: center;
+  margin: 1rem 0 0 0;
 }
 
 /* Media queries */
