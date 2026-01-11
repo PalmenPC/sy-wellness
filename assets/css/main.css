@@ -169,12 +169,13 @@ footer a {
 }
 
 #opening-hour-heading {
+  text-align: center;
   font-family: var(--font-secondary);
-  margin: 1rem 0 0 0;
+  margin-bottom: 0.2rem;
 }
 
 #opening-hours-list {
-  margin: 0.2rem 0;
+  margin: 0;
 }
 
 .opening-hour-item {
