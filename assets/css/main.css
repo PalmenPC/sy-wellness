@@ -184,6 +184,14 @@ footer a {
   margin: 0.4rem 0;
 }
 
+#contact-info-list {
+  text-align: center;
+}
+
+#contact-info-list li {
+  margin: 0.8rem 0;
+}
+
 .social-icon {
   width: 2rem;
   fill: var(--color-secondary);
