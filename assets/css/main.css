@@ -28,6 +28,12 @@ h1 {
   font-family: var(--font-secondary);
 }
 
+.nav-list {
+  padding-left: 0;
+  list-style: none;
+  font-family: var(--font-secondary);
+}
+
 a {
   text-decoration: none;
 }
@@ -50,9 +56,6 @@ header {
 #header-nav-list {
   display: flex;
   flex-direction: row;
-  padding-left: 0;
-  list-style: none;
-  font-family: var(--font-secondary);
   margin-right: 1rem;
 }
 
@@ -111,11 +114,6 @@ header {
   position: absolute;
   top: 4rem;
   right: 0;
-}
-
-#hamburger-nav-list {
-  padding-left: 0;
-  list-style: none;
 }
 
 #hamburger-nav-list li {
