@@ -29,9 +29,14 @@ h1 {
 }
 
 .nav-list {
-  padding-left: 0;
+  padding: 0;
   list-style: none;
   font-family: var(--font-secondary);
+}
+
+.info-list {
+  padding: 0;
+  list-style: none;
 }
 
 a {
@@ -161,6 +166,22 @@ footer {
 
 footer a {
   color: var(--font-color-primary);
+}
+
+#opening-hour-heading {
+  font-family: var(--font-secondary);
+  margin: 1rem 0 0 0;
+}
+
+#opening-hours-list {
+  margin: 0.4rem 0 1rem 0;
+}
+
+.opening-hour-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 0.4rem 0;
 }
 
 .social-icon {
