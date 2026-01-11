@@ -202,6 +202,10 @@ footer a {
   fill: var(--color-secondary);
 }
 
+.social-icon:hover {
+  fill: var(--color-secondary-hover);
+}
+
 #copyright-notice {
   text-align: center;
   margin: 1rem 0 0 0;
