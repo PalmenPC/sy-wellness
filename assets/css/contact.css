@@ -16,3 +16,8 @@ h2 {
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
+
+#ci-phone-numbers {
+  display: flex;
+  gap: 0.4rem;
+}
