@@ -16,7 +16,7 @@
   color: var(--font-color-primary);
   white-space: nowrap;
   background-color: var(--color-primary);
-  transition: 0.3s ease-in-out;
+  transition: var(--color-switch);
 }
 
 .category-tag:hover {

@@ -155,10 +155,14 @@ header {
   font-family: var(--font-secondary);
   color: var(--font-color-primary);
   padding: 0.7rem 1.4rem;
-  transition: 0.3s ease-in-out;
 }
 
-.cta-btn:hover {
+.hover-btn {
+  background-color: var(--color-primary);
+  transition: var(--color-switch);
+}
+
+.hover-btn:hover {
   background-color: var(--color-primary-hover);
 }
 
