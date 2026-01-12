@@ -40,6 +40,12 @@
   text-align: center;
   color: var(--font-color-secondary);
   background-color: var(--color-secondary);
+  transition: var(--color-switch);
+}
+
+.treatment-book-btn:hover {
+  color: var(--font-color-primary);
+  background-color: var(--color-accent);
 }
 
 /* Media queries */
