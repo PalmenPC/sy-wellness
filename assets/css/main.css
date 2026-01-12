@@ -15,6 +15,9 @@
   --font-secondary: "Cinzel", serif;
   --font-color-primary: #ffffff;
   --font-color-secondary: #000000;
+
+  /* Transitions */
+  --color-switch: 0.3s ease-in-out;
 }
 
 html,
