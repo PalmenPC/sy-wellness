@@ -7,7 +7,7 @@ function loadHandler() {
         treatment.classList.add("treatment-container");
         treatment.innerText = JSON.stringify(item);
         treatment.innerHTML = `
-        <div class="treatment-dropdown">
+        <div class="treatment-dropdown hover-btn">
         <h3 class="treatment-name">${item.name}</h3>
         </div>
         <div class="treatment-content">
