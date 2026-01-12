@@ -14,7 +14,10 @@
 
 .section-content {
   max-width: 40rem;
+  padding: 1rem;
   margin: 0;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
 }
 
 #our-team-section {
@@ -41,12 +44,16 @@
 }
 
 .team-member-bio {
+  padding: 1rem;
   margin: 0.6rem 0 1rem 0;
-  max-width: 16rem;
+  width: 16rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
 }
 
 /* Media queries */
-@media screen and (min-width: 850px) {
+/* Team gallery */
+@media screen and (min-width: 610px) {
   #team-gallery {
     flex-direction: row;
     align-items: start;
