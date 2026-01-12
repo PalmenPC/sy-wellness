@@ -8,12 +8,16 @@
   --color-primary-hover: #314431;
   --color-secondary: #ffffff;
   --color-secondary-hover: #d5d5d5;
+  --color-accent: #000000;
 
   /* Typography */
   --font-primary: "Merriweather", serif;
   --font-secondary: "Cinzel", serif;
   --font-color-primary: #ffffff;
   --font-color-secondary: #000000;
+
+  /* Transitions */
+  --color-switch: 0.3s ease-in-out;
 }
 
 html,
