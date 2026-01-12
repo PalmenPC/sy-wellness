@@ -216,10 +216,11 @@ footer a {
   width: 2rem;
   margin: 0 0.4rem;
   fill: var(--color-secondary);
+  transition: var(--color-switch);
 }
 
 .social-icon:hover {
-  fill: var(--color-secondary-hover);
+  fill: var(--color-accent);
 }
 
 #copyright-notice {
