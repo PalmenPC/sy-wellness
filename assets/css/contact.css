@@ -11,6 +11,8 @@ h2 {
   margin: 2rem;
 }
 
-#contact-info a {
-  color: var(--font-color-secondary);
+.contact-info-item {
+  padding: 1rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
 }
