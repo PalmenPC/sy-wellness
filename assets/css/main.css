@@ -185,13 +185,13 @@ footer a {
   transition: var(--color-switch);
 }
 
-footer a:hover {
-  color: var(--font-color-secondary);
-  background-color: var(--color-secondary);
-}
-
 #footer-nav-list li {
   margin: 0.8rem 0;
+}
+
+.footer-nav-link:hover {
+  color: var(--font-color-secondary);
+  background-color: var(--color-secondary);
 }
 
 #footer-content {
