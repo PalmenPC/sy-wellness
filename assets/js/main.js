@@ -1,8 +1,3 @@
-/* Hamburger menu */
-const hamburgerButton = document.getElementById("hamburger-btn");
-const hamburgerMenu = document.getElementById("hamburger-nav");
+import { initHamburgerMenu } from "./hamburgerMenu.js";
 
-hamburgerButton.addEventListener("click", () => {
-  hamburgerButton.classList.toggle("active");
-  hamburgerMenu.classList.toggle("active");
-});
+initHamburgerMenu();
