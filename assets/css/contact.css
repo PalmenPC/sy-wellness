@@ -1,6 +1,6 @@
-h2 {
+#contact-info-heading {
   text-align: center;
-  margin-top: 0;
+  margin: 0;
 }
 
 #contact-info {
@@ -11,6 +11,13 @@ h2 {
   margin: 2rem;
 }
 
-#contact-info a {
-  color: var(--font-color-secondary);
+.contact-info-item {
+  padding: 1rem;
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+}
+
+#ci-phone-numbers {
+  display: flex;
+  gap: 0.4rem;
 }
