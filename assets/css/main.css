@@ -31,7 +31,13 @@ body {
   font-family: var(--font-primary);
 }
 
+/* Headings */
 h1 {
+  font-family: var(--font-secondary);
+}
+
+.section-heading {
+  text-align: center;
   font-family: var(--font-secondary);
 }
 
