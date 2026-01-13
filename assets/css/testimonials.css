@@ -1,9 +1,12 @@
+#testimonial-section {
+  padding: 1rem;
+}
+
 #testimonial-gallery {
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
   gap: 1rem;
-  padding: 1rem;
 }
 
 .testimonial-container {
@@ -14,6 +17,7 @@
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
+
 .testimonial-text {
   margin: 0;
 }
