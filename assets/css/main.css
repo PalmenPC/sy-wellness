@@ -271,6 +271,13 @@ footer a {
   }
 }
 
+/* Banners */
+@media screen and (max-width: 360px) {
+  .page-banner {
+    font-size: 0.8rem;
+  }
+}
+
 /* Footer */
 @media screen and (min-width: 900px) {
   #footer-content {
