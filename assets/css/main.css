@@ -191,6 +191,10 @@ footer a {
   margin: 0.8rem 0;
 }
 
+.footer-nav-link {
+  padding: 0.4rem;
+}
+
 .footer-nav-link:hover {
   color: var(--font-color-secondary);
   background-color: var(--color-secondary);
