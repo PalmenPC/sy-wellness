@@ -153,6 +153,8 @@ header {
   justify-content: center;
   align-items: center;
   height: 16rem;
+  padding: 1rem;
+  text-align: center;
   color: var(--font-color-primary);
   font-family: var(--font-secondary);
   background-color: var(--color-primary);
@@ -268,13 +270,6 @@ footer a {
 @media screen and (min-width: 581px) {
   #hamburger-btn {
     display: none;
-  }
-}
-
-/* Banners */
-@media screen and (max-width: 360px) {
-  .page-banner {
-    font-size: 0.8rem;
   }
 }
 
