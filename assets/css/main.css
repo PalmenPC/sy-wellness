@@ -175,6 +175,7 @@ header {
   background-color: var(--color-primary-hover);
 }
 
+/* Footer */
 footer {
   padding: 1rem;
   color: var(--font-color-primary);
@@ -183,7 +184,6 @@ footer {
 
 footer a {
   color: var(--font-color-primary);
-  padding: 0.4rem;
   transition: var(--color-switch);
 }
 
@@ -203,10 +203,14 @@ footer a {
   align-items: center;
 }
 
+#opening-hour-section {
+  margin: 1rem 0;
+}
+
 #opening-hour-heading {
   text-align: center;
   font-family: var(--font-secondary);
-  margin-bottom: 0.2rem;
+  margin: 0;
 }
 
 #opening-hours-list {
@@ -234,9 +238,9 @@ footer a {
 
 .social-icon {
   width: 2rem;
-  margin: 0 0.4rem;
   fill: var(--color-secondary);
   transition: var(--color-switch);
+  margin: 0 0.4rem;
 }
 
 .social-icon:hover {
