@@ -2,7 +2,7 @@ function loadHandler() {
   fetch("../assets/data/testimonials.json")
     .then((res) => res.json())
     .then((data) => {
-      data.forEach((item) => {
+      data.testimonials.forEach((item) => {
         const testimonial = document.createElement("div");
         testimonial.classList.add("testimonial-container");
         testimonial.innerText = JSON.stringify(item);
