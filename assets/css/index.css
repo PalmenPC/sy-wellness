@@ -11,9 +11,11 @@
   object-fit: cover;
 }
 
-h1 {
-  font-size: 3.5rem;
+#hero-heading {
   color: var(--font-color-primary);
+  font-family: var(--font-secondary);
+  font-size: 3.4rem;
+  margin-bottom: 1rem;
 }
 
 #cta-hero-container {
