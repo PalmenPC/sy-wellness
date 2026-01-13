@@ -148,15 +148,13 @@ header {
 }
 
 /* Banners */
-.heading-banner {
-  color: var(--font-color-primary);
-}
-
 .page-banner {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 16rem;
+  color: var(--font-color-primary);
+  font-family: var(--font-secondary);
   background-color: var(--color-primary);
 }
 
