@@ -32,13 +32,10 @@ body {
 }
 
 /* Headings */
-h1 {
+.section-heading,
+.subsection-heading {
   font-family: var(--font-secondary);
-}
-
-.section-heading {
   text-align: center;
-  font-family: var(--font-secondary);
 }
 
 .nav-list {
