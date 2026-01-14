@@ -1,14 +1,14 @@
-#contact-info-heading {
-  text-align: center;
-  margin: 0;
-}
-
-#contact-info {
+#contact-info-section {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin: 2rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ci-heading {
+  margin-bottom: 0.4rem;
 }
 
 .contact-info-item {

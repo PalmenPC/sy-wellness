@@ -7,6 +7,7 @@
   grid-template-columns: 1fr;
   justify-content: center;
   gap: 1rem;
+  margin-bottom: 1rem;
 }
 
 .testimonial-container {
