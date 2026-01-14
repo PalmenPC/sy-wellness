@@ -3,12 +3,12 @@ function loadHandler() {
     .then((res) => res.json())
     .then((data) => {
       data.treatments.corporateWellnessPackage.forEach((item) => {
-        const treatment = document.createElement("div");
+        const treatment = document.createElement("li");
         treatment.classList.add("treatment-container");
         treatment.innerText = JSON.stringify(item);
         treatment.innerHTML = `
         <div class="treatment-dropdown hover-btn">
-        <h3 class="treatment-name">${item.name}</h3>
+        <a class="treatment-name">${item.name}</a>
         </div>
         <div class="treatment-content">
         <p class="treatment-description">${item.description}</p>
