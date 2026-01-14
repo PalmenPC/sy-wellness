@@ -1,9 +1,23 @@
 #our-story-section,
+#our-vision-section,
+#our-team-section {
+  padding: 0 1rem;
+}
+
+#our-story-section,
 #our-vision-section {
   display: flex;
   place-items: center;
   flex-direction: column;
-  margin: 0 2rem;
+}
+
+#our-story-section {
+  padding-top: 1rem;
+}
+
+#our-team-section {
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .section-content {
@@ -14,17 +28,12 @@
   background-color: var(--color-primary);
 }
 
-#our-team-section {
-  margin-bottom: 2rem;
-}
-
 #team-gallery {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  margin: 0 2rem;
 }
 
 .team-avatar {
