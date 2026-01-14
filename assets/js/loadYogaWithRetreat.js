@@ -3,7 +3,7 @@ function loadHandler() {
     .then((res) => res.json())
     .then((data) => {
       data.treatments.yogaWithRetreat.forEach((item) => {
-        const treatment = document.createElement("div");
+        const treatment = document.createElement("li");
         treatment.classList.add("treatment-container");
         treatment.innerText = JSON.stringify(item);
         treatment.innerHTML = `
