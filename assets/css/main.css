@@ -161,14 +161,7 @@ header {
   background-color: var(--color-primary);
 }
 
-/* Call-to-action buttons */
-.cta-btn {
-  background-color: var(--color-primary);
-  font-family: var(--font-secondary);
-  color: var(--font-color-primary);
-  padding: 0.7rem 1.4rem;
-}
-
+/* Buttons */
 .hover-btn {
   background-color: var(--color-primary);
   transition: var(--color-switch);
