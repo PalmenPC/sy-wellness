@@ -27,8 +27,9 @@
 }
 
 /* Media queries */
+/* Testimonial gallery */
 @media screen and (min-width: 690px) {
   #testimonial-gallery {
-    grid-template-columns: repeat(2, minmax(20rem, 25rem));
+    grid-template-columns: repeat(2, minmax(18rem, 25rem));
   }
 }
