@@ -57,6 +57,5 @@
   #team-gallery {
     flex-direction: row;
     align-items: start;
-    gap: 2.4rem;
   }
 }
