@@ -34,8 +34,9 @@ body {
 /* Headings */
 .section-heading,
 .subsection-heading {
-  font-family: var(--font-secondary);
   text-align: center;
+  font-family: var(--font-secondary);
+  margin: 1rem 0;
 }
 
 .nav-list {
