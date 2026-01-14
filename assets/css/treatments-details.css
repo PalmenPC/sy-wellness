@@ -1,9 +1,14 @@
+#treatment-gallery-section {
+  padding: 1rem;
+}
+
 #treatment-gallery {
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
   gap: 1rem;
-  margin: 1rem;
+  padding: 0;
+  margin: 1rem 0 16rem 0;
 }
 
 .treatment-container {
