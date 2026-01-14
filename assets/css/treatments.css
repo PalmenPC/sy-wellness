@@ -37,7 +37,7 @@
 
 @media screen and (min-width: 1000px) {
   #category-gallery-list {
-    grid-template-columns: repeat(3, minmax(18rem, 22rem));
+    grid-template-columns: repeat(3, minmax(20rem, 25rem));
   }
   .category-tag {
     padding: 3rem;
