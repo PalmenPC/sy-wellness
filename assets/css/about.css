@@ -56,7 +56,7 @@
 
 /* Media queries */
 /* Team gallery */
-@media screen and (min-width: 610px) {
+@media screen and (min-width: 562px) {
   #team-gallery {
     flex-direction: row;
     align-items: start;
