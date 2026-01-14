@@ -1,15 +1,23 @@
 #our-story-section,
+#our-vision-section,
+#our-team-section {
+  padding: 0 1rem;
+}
+
+#our-story-section,
 #our-vision-section {
   display: flex;
   place-items: center;
   flex-direction: column;
-  margin: 0 2rem;
 }
 
-.section-heading {
-  text-align: center;
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
+#our-story-section {
+  padding-top: 1rem;
+}
+
+#our-team-section {
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .section-content {
@@ -20,17 +28,12 @@
   background-color: var(--color-primary);
 }
 
-#our-team-section {
-  margin-bottom: 2rem;
-}
-
 #team-gallery {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  margin: 0 2rem;
 }
 
 .team-avatar {
@@ -40,23 +43,22 @@
 }
 
 .team-member-name {
-  margin: 0.2rem 0 0 0;
+  margin: 0 0 0.4rem 0;
 }
 
 .team-member-bio {
-  padding: 1rem;
-  margin: 0.6rem 0 1rem 0;
   width: 16rem;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
+  padding: 1rem;
+  margin: 0 0 1rem 0;
 }
 
 /* Media queries */
 /* Team gallery */
-@media screen and (min-width: 610px) {
+@media screen and (min-width: 562px) {
   #team-gallery {
     flex-direction: row;
     align-items: start;
-    gap: 2.4rem;
   }
 }
