@@ -1,5 +1,5 @@
 #treatment-gallery-section {
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 #treatment-gallery {
@@ -8,7 +8,7 @@
   justify-content: center;
   gap: 1rem;
   padding: 0;
-  margin: 1rem 0 16rem 0;
+  margin: 2rem 0;
 }
 
 .treatment-container {
@@ -20,7 +20,7 @@
 .treatment-dropdown {
   text-align: center;
   font-family: var(--font-secondary);
-  padding: 2rem 0.4rem;
+  padding: 3rem;
   cursor: pointer;
 }
 
