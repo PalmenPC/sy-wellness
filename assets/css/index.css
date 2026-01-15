@@ -44,6 +44,7 @@
   align-items: center;
   text-align: center;
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 #testimonial-gallery-index {
@@ -51,7 +52,7 @@
   justify-content: center;
   align-items: start;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .testimonial-container {
@@ -74,21 +75,9 @@
 
 .testimonial-author {
   margin: 0;
-  margin-bottom: 0;
-}
-
-#read-more-btn {
-  margin-bottom: 1rem;
 }
 
 /* Media queries */
-/* Testimonial section heading */
-@media screen and (max-width: 340px) {
-  #heading-testimonials-index {
-    font-size: 1.4rem;
-  }
-}
-
 /* Testimonial gallery */
 @media screen and (max-width: 810px) {
   #testimonial-gallery-index {
