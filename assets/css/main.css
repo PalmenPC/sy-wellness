@@ -11,6 +11,8 @@
   --color-accent: #000000;
 
   /* Borders */
+  --radius-sm: 0.8rem;
+  --radius-lg: 1.2rem;
 
   /* Spacing */
   --spacing-sm: 1rem;

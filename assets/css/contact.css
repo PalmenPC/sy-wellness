@@ -13,6 +13,7 @@
 
 .contact-info-item {
   padding: var(--spacing-sm);
+  border-radius: var(--radius-lg);
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }

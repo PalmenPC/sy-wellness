@@ -15,6 +15,7 @@
   flex-direction: column;
   justify-content: space-between;
   padding: var(--spacing-md);
+  border-radius: var(--radius-lg);
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
