@@ -15,12 +15,14 @@
   height: fit-content;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
+  border-radius: var(--border-radius-treatment);
 }
 
 .treatment-dropdown {
   text-align: center;
   font-family: var(--font-secondary);
   padding: 3rem;
+  border-radius: var(--border-radius-treatment);
   cursor: pointer;
 }
 
