@@ -4,7 +4,7 @@
 
 #treatment-gallery {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(18rem, 25rem);
   justify-content: center;
   gap: 1rem;
   padding: 0;
@@ -21,7 +21,7 @@
 .treatment-dropdown {
   text-align: center;
   font-family: var(--font-secondary);
-  padding: 3rem;
+  padding: 3rem 0;
   border-radius: var(--border-radius-treatment);
   cursor: pointer;
 }
@@ -59,7 +59,7 @@
 }
 
 /* Media queries */
-@media screen and (min-width: 690px) {
+@media screen and (min-width: 800px) {
   #treatment-gallery {
     grid-template-columns: repeat(2, minmax(20rem, 25rem));
   }
