@@ -1,6 +1,7 @@
 #our-story-section,
 #our-vision-section,
 #our-team-section {
+  margin-top: var(--spacing-md-lg);
   padding: 0 var(--spacing-sm);
 }
 
@@ -9,10 +10,6 @@
   display: flex;
   place-items: center;
   flex-direction: column;
-}
-
-#our-story-section {
-  margin-top: var(--spacing-md-lg);
 }
 
 #our-team-section {
