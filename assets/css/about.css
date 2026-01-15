@@ -1,7 +1,7 @@
 #our-story-section,
 #our-vision-section,
 #our-team-section {
-  padding: 0 1rem;
+  padding: 0 var(--spacing-sm);
 }
 
 #our-story-section,
@@ -12,17 +12,17 @@
 }
 
 #our-story-section {
-  padding-top: 1rem;
+  margin-top: var(--spacing-md-lg);
 }
 
 #our-team-section {
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: var(--spacing-md-lg);
 }
 
 .section-content {
   max-width: 40rem;
-  padding: 1rem;
+  padding: var(--spacing-md);
+  border-radius: var(--radius-lg);
   margin: 0;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
@@ -33,13 +33,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: var(--spacing-sm);
 }
 
 .team-avatar {
   width: 16rem;
   height: 22rem;
   object-fit: cover;
+  border-radius: var(--radius-lg);
 }
 
 .team-member-name {
@@ -50,8 +51,9 @@
   width: 16rem;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
-  padding: 1rem;
-  margin: 0 0 1rem 0;
+  padding: var(--spacing-sm);
+  border-radius: var(--radius-lg);
+  margin: 0 0 var(--spacing-sm) 0;
 }
 
 /* Media queries */

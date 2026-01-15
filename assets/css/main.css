@@ -11,7 +11,15 @@
   --color-accent: #000000;
 
   /* Borders */
-  --border-radius-treatment: 0.4rem;
+  --radius-sm: 0.8rem;
+  --radius-lg: 1.2rem;
+
+  /* Spacing */
+  --spacing-sm: 1rem;
+  --spacing-md: 1.4rem;
+  --spacing-md-lg: 2rem;
+  --spacing-lg: 3rem;
+  --spacing-xl: 4rem;
 
   /* Transitions */
   --color-switch: 0.3s ease-in-out;
@@ -25,13 +33,21 @@
 
 html,
 body {
+  height: 100%;
+  margin: 0;
   overflow-x: hidden;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   position: relative;
-  margin: 0;
   font-family: var(--font-primary);
+}
+
+main {
+  flex: 1;
 }
 
 /* Headings */

@@ -1,29 +1,30 @@
 #treatment-gallery-section {
-  padding: 0 1rem;
+  padding: 0 var(--spacing-sm);
 }
 
 #treatment-gallery {
   display: grid;
   grid-template-columns: minmax(18rem, 25rem);
   justify-content: center;
-  gap: 1rem;
+  gap: var(--spacing-sm);
   padding: 0;
-  margin: 2rem 0;
+  margin: var(--spacing-md-lg) 0;
 }
 
 .treatment-container {
   height: fit-content;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
-  border-radius: var(--border-radius-treatment);
+  border-radius: var(--radius-sm);
 }
 
 .treatment-dropdown {
   text-align: center;
   font-family: var(--font-secondary);
-  padding: 3rem 0;
-  border-radius: var(--border-radius-treatment);
+  padding: var(--spacing-lg) 0;
+  border-radius: var(--radius-sm);
   cursor: pointer;
+  user-select: none;
 }
 
 .treatment-name {
@@ -32,7 +33,7 @@
 
 .treatment-content {
   display: none;
-  padding: 1rem;
+  padding: var(--spacing-sm);
 }
 
 .treatment-content.open {
@@ -40,13 +41,13 @@
 }
 
 .treatment-description {
-  margin: 0 0 1rem 0;
+  margin: 0 0 var(--spacing-sm) 0;
 }
 
 .treatment-book-btn {
   display: block;
   padding: 0.4rem;
-  border-radius: var(--border-radius-treatment);
+  border-radius: var(--radius-sm);
   text-align: center;
   color: var(--font-color-secondary);
   background-color: var(--color-secondary);

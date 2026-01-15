@@ -1,5 +1,5 @@
 #category-gallery-section {
-  padding: 0 1rem;
+  padding: 0 var(--spacing-sm);
 }
 
 #category-gallery-list {
@@ -7,19 +7,18 @@
   justify-content: center;
   grid-template-columns: 1fr;
   text-align: center;
-  gap: 1rem;
-  margin: 2rem 0;
+  gap: var(--spacing-sm);
+  margin: var(--spacing-md-lg) 0;
 }
 
 .category-tag {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 4rem 0;
-  border-radius: var(--border-radius-treatment);
+  padding: var(--spacing-xl) 0;
+  border-radius: var(--radius-sm);
   font-family: var(--font-secondary);
   color: var(--font-color-primary);
-  white-space: nowrap;
   background-color: var(--color-primary);
   transition: var(--color-switch);
 }
