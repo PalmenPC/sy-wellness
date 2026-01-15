@@ -67,8 +67,7 @@ a {
 }
 
 /* Headings */
-.section-heading,
-.subsection-heading {
+.section-heading {
   text-align: center;
   font-family: var(--font-secondary);
   margin: 0 0 var(--spacing-xs) 0;
