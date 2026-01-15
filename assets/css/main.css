@@ -10,14 +10,17 @@
   --color-secondary-hover: #d5d5d5;
   --color-accent: #000000;
 
+  /* Borders */
+  --border-radius-treatment: 0.4rem;
+
+  /* Transitions */
+  --color-switch: 0.3s ease-in-out;
+
   /* Typography */
   --font-primary: "Merriweather", serif;
   --font-secondary: "Cinzel", serif;
   --font-color-primary: #ffffff;
   --font-color-secondary: #000000;
-
-  /* Transitions */
-  --color-switch: 0.3s ease-in-out;
 }
 
 html,
