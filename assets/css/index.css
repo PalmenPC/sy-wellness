@@ -58,9 +58,9 @@
 .testimonial-container {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   min-width: 18rem;
   max-width: 25rem;
-  height: fit-content;
   padding: 1.4rem;
   border-radius: 1.2rem;
   text-align: left;
@@ -78,7 +78,7 @@
 
 /* Media queries */
 /* Testimonial gallery */
-@media screen and (min-width: 811px) {
+@media screen and (min-width: 850px) {
   #testimonial-gallery-index {
     flex-direction: row;
   }
