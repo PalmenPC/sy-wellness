@@ -8,7 +8,7 @@
 }
 
 .ci-heading {
-  margin-bottom: 0.4rem;
+  margin: 1rem 0 0.4rem 0;
 }
 
 .contact-info-item {
@@ -20,5 +20,5 @@
 
 #ci-phone-numbers {
   display: flex;
-  gap: 0.4rem;
+  gap: 0.6rem;
 }
