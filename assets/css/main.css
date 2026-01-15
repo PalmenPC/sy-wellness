@@ -11,7 +11,13 @@
   --color-accent: #000000;
 
   /* Borders */
-  --border-radius-treatment: 0.4rem;
+
+  /* Spacing */
+  --spacing-sm: 1rem;
+  --spacing-md: 1.4rem;
+  --spacing-md-lg: 2rem;
+  --spacing-lg: 3rem;
+  --spacing-xl: 4rem;
 
   /* Transitions */
   --color-switch: 0.3s ease-in-out;

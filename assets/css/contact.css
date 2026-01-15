@@ -3,8 +3,8 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 1rem;
-  margin-bottom: 1rem;
+  padding: 0 var(--spacing-sm);
+  margin: var(--spacing-md-lg) 0;
 }
 
 .ci-heading {
@@ -12,7 +12,7 @@
 }
 
 .contact-info-item {
-  padding: 1rem;
+  padding: var(--spacing-sm);
   color: var(--font-color-primary);
   background-color: var(--color-primary);
 }
