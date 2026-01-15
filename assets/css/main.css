@@ -22,7 +22,7 @@
   --spacing-xl: 4rem;
 
   /* Transitions */
-  --color-switch: 0.3s ease-in-out;
+  --transition-fast: 300ms ease-out;
 
   /* Typography */
   --font-primary: "Merriweather", serif;
@@ -50,14 +50,6 @@ main {
   flex: 1;
 }
 
-/* Headings */
-.section-heading,
-.subsection-heading {
-  text-align: center;
-  font-family: var(--font-secondary);
-  margin: 0 0 1rem 0;
-}
-
 .nav-list {
   padding: 0;
   list-style: none;
@@ -71,6 +63,24 @@ main {
 
 a {
   text-decoration: none;
+}
+
+/* Headings */
+.section-heading,
+.subsection-heading {
+  text-align: center;
+  font-family: var(--font-secondary);
+  margin: 0 0 1rem 0;
+}
+
+/* Buttons */
+.hover-btn {
+  background-color: var(--color-primary);
+  transition: var(--transition-fast);
+}
+
+.hover-btn:hover {
+  background-color: var(--color-primary-hover);
 }
 
 /* Header */
@@ -178,16 +188,6 @@ header {
   color: var(--font-color-primary);
   font-family: var(--font-secondary);
   background-color: var(--color-primary);
-}
-
-/* Buttons */
-.hover-btn {
-  background-color: var(--color-primary);
-  transition: var(--color-switch);
-}
-
-.hover-btn:hover {
-  background-color: var(--color-primary-hover);
 }
 
 /* Footer */
