@@ -1,26 +1,28 @@
 #treatment-gallery-section {
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 #treatment-gallery {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(18rem, 25rem);
   justify-content: center;
   gap: 1rem;
   padding: 0;
-  margin: 1rem 0 16rem 0;
+  margin: 2rem 0;
 }
 
 .treatment-container {
   height: fit-content;
   color: var(--font-color-primary);
   background-color: var(--color-primary);
+  border-radius: var(--border-radius-treatment);
 }
 
 .treatment-dropdown {
   text-align: center;
   font-family: var(--font-secondary);
-  padding: 2rem 0.4rem;
+  padding: 3rem 0;
+  border-radius: var(--border-radius-treatment);
   cursor: pointer;
 }
 
@@ -44,6 +46,7 @@
 .treatment-book-btn {
   display: block;
   padding: 0.4rem;
+  border-radius: var(--border-radius-treatment);
   text-align: center;
   color: var(--font-color-secondary);
   background-color: var(--color-secondary);
@@ -56,7 +59,7 @@
 }
 
 /* Media queries */
-@media screen and (min-width: 690px) {
+@media screen and (min-width: 800px) {
   #treatment-gallery {
     grid-template-columns: repeat(2, minmax(20rem, 25rem));
   }
