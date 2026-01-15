@@ -22,7 +22,7 @@
   --spacing-xl: 4rem;
 
   /* Transitions */
-  --color-switch: 0.3s ease-in-out;
+  --transition-fast: 300ms ease-out;
 
   /* Typography */
   --font-primary: "Merriweather", serif;
@@ -183,7 +183,7 @@ header {
 /* Buttons */
 .hover-btn {
   background-color: var(--color-primary);
-  transition: var(--color-switch);
+  transition: var(--transition-fast);
 }
 
 .hover-btn:hover {
