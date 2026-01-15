@@ -1,6 +1,7 @@
 #our-story-section,
 #our-vision-section,
 #our-team-section {
+  margin-top: var(--spacing-md-lg);
   padding: 0 var(--spacing-sm);
 }
 
@@ -9,10 +10,6 @@
   display: flex;
   place-items: center;
   flex-direction: column;
-}
-
-#our-story-section {
-  margin-top: var(--spacing-md-lg);
 }
 
 #our-team-section {
@@ -36,6 +33,13 @@
   gap: var(--spacing-sm);
 }
 
+.team-profile {
+  color: var(--font-color-primary);
+  background-color: var(--color-primary);
+  padding: var(--spacing-md);
+  border-radius: var(--radius-lg);
+}
+
 .team-avatar {
   width: 16rem;
   height: 22rem;
@@ -44,21 +48,19 @@
 }
 
 .team-member-name {
-  margin: 0 0 0.4rem 0;
+  color: var(--font-color-primary);
+  margin: 0 0 var(--spacing-sm) 0;
+  font-family: var(--font-secondary);
 }
 
 .team-member-bio {
   width: 16rem;
-  color: var(--font-color-primary);
-  background-color: var(--color-primary);
-  padding: var(--spacing-sm);
-  border-radius: var(--radius-lg);
-  margin: 0 0 var(--spacing-sm) 0;
+  height: 18rem;
 }
 
 /* Media queries */
 /* Team gallery */
-@media screen and (min-width: 562px) {
+@media screen and (min-width: 650px) {
   #team-gallery {
     flex-direction: row;
     align-items: start;
