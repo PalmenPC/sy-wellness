@@ -15,8 +15,8 @@
 }
 
 #hero-image {
-  width: 100vw;
-  height: 95vh;
+  width: 100%;
+  height: 54rem;
   object-fit: cover;
 }
 
@@ -24,17 +24,15 @@
   color: var(--font-color-primary);
   font-family: var(--font-secondary);
   font-size: 3.4rem;
-  margin-bottom: var(--spacing-sm);
+  margin: 0 0 var(--spacing-sm) 0;
 }
 
-#cta-hero-container {
+#hero-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   text-align: center;
   position: absolute;
-  top: 18rem;
 }
 
 /* Testimonial section */
