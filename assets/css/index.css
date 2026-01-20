@@ -35,6 +35,15 @@
   position: absolute;
 }
 
+/* What-we-offer section */
+#what-we-offer-section {
+  margin: 2rem 0 0 0;
+}
+
+#what-we-offer-gallery {
+  display: grid;
+}
+
 /* Testimonial section */
 #testimonial-section-index {
   display: flex;
