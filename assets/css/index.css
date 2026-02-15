@@ -44,6 +44,8 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
   grid-auto-rows: 16rem;
+  gap: var(--spacing-sm);
+  padding: 0 var(--spacing-sm);
 }
 
 .service-card {
