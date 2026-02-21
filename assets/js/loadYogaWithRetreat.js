@@ -1,11 +1,15 @@
 function loadHandler() {
   fetch("../assets/data/treatments.json")
-    .then((res) => res.json())
+    .then((res) => {
+      if (!res.ok) {
+        throw new Error(`Failed to fetch testimonials.json: ${res.status}`);
+      }
+      return res.json();
+    })
     .then((data) => {
       data.treatments.yogaWithRetreat.forEach((item) => {
         const treatment = document.createElement("li");
         treatment.classList.add("treatment-container");
-        treatment.innerText = JSON.stringify(item);
         treatment.innerHTML = `
         <div class="treatment-dropdown hover-btn">
         <a class="treatment-name">${item.name}</a>
