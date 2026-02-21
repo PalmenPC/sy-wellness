@@ -29,8 +29,7 @@ function loadHandler() {
       console.error("Error loading treatments:", error);
 
       const treatmentGallery = document.getElementById("treatment-gallery");
-      treatmentGallery.innerHTML =
-        "<p>Kunde inte ladda behandlingar.</p>";
+      treatmentGallery.innerHTML = "<p>Kunde inte ladda behandlingar.</p>";
     });
 }
 window.addEventListener("load", loadHandler);
