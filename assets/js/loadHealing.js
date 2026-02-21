@@ -30,7 +30,7 @@ function loadHandler() {
 
       const treatmentGallery = document.getElementById("treatment-gallery");
       treatmentGallery.innerHTML =
-        "<p class='error'>Kunde inte ladda behandlingar.</p>";
+        "<p>Kunde inte ladda behandlingar.</p>";
     });
 }
 window.addEventListener("load", loadHandler);
