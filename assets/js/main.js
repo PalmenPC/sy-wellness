@@ -1,3 +1,3 @@
-import { initHamburgerMenu } from "./hamburgerMenu.js";
+import { initHamburgerMenu } from "./hamburger-menu.js";
 
 initHamburgerMenu();
